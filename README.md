@@ -1,2 +1,12 @@
 # Problem-Solver-AI-Search-Algorithm
 Implementing a program that generates solutions for a classic problem using search algorithms (+ visual representation).
+
+A classic river-crossing logic puzzle known as the "missionaires and cannibals problem" is solved using artificial inteligence (more specifically search algorithms).
+
+The problem:
+A given number of cannibals and missionaries must cross a river with a boat that can transport a given number of persons. The two groups and the boat are on the same side of the river and must successfully cross to the other side, however if at any time on any side of the river there are more cannibals than missionaries the cannibals will eat the missionaries. The solution found must be the most efficient (as few boat movements as possible).
+
+More info on the problem can be found here: https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem
+
+
+
