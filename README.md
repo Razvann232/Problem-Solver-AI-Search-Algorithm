@@ -8,5 +8,12 @@ A given number of cannibals and missionaries must cross a river with a boat that
 
 More info on the problem can be found here: https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem
 
+The problem is solved using search algorithms:
+1. Depth First Search (DFS)
+2. Breadth First Search (BFS)
+3. A-star algorithm (A*)
+4. Uniform Path Cost 
 
+Three scenarios can be used for each algorithm depending on the difficulty (number of people in each group). 
+A helpful UI and a visual animation are used to display the solution.
 
